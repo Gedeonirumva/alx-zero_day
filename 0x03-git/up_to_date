@@ -1,0 +1,9 @@
+echo “git pull”> up_to_date  (enter)
+
+git add . (enter)
+
+git status (enter) 
+
+git commit -m “How to be up to date in git” (enter)
+
+git push
